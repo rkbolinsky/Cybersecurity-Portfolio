@@ -15,3 +15,10 @@
 #### Unit Breakdown:
 * **Unit 1-4 Quizzes:** 100%
 * **Final Exam:** 100%
+
+## 📂 My Work
+
+- 📜 Certifications: [View Certifications](certifications.md)
+- 📘 Training Logs:
+  - Day 1: (coming soon)
+  - Day 2: (coming soon)
