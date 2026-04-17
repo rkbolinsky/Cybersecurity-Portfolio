@@ -17,7 +17,6 @@
     * **Status:** Certified ✅
     * **Proof:** ![Cisco AITECH Certificate](cisco-ai-technical-practitioner.png)
     
-    
     #### Unit Breakdown:
     * **Unit 1-4 Quizzes:** 100%
     * **Final Exam:** 100%
