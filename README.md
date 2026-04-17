@@ -1,8 +1,5 @@
 # Cybersecurity Portfolio
 
-# My Cybersecurity Portfolio
-# My Cybersecurity Portfolio
-
 I'm Ron Bolinsky, transitioning from 40+ years in project management into **cybersecurity** with a focus on **Identity & Access Management (IAM)** and **Security Operations**.  
 Building in public with a structured 20-week sprint.
 
