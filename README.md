@@ -10,7 +10,7 @@
 ### NVIDIA AI for All: From Basics to GenAI Practice
 * **Completed:** March 17, 2026
 * **Status:** Certified ✅ (Score: 100%)
-* **Proof:** NVIDIA (IABIZPIC.png)
+* **Proof:** ![NVIDIA Certificate](IABIZPIC.png)  
 
 #### Unit Breakdown:
 * **Unit 1-4 Quizzes:** 100%
