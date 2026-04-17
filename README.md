@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio & Training Log
 
 ## 🏆 Current Progress
-* **Status:** Week 1 - AITECH - AIBIZ
+* **Status:** Week 1 - Cisco AIBIZ Modules 1-4
 * **Next Goal:** ISC² Certified in Cybersecurity (CC) Exam
 
 ---
